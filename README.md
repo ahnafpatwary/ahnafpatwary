@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 <h3 align="center">Just another programmer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [ahnafpatwary.com](ahnafpatwary.com)
-
-- 📫 How to reach me **ahnaf@ahnafpatwary.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ahnafpatwary](https://www.linkedin.com/in/ahnafpatwary)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahnafpatwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahnafpatwary" height="30" width="40" /></a>
